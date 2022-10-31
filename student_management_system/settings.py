@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
 '127.0.0.1',
-'studentinfo221.herokuapp.com',
+'stmanage1.herokuapp.com',
 
 ]
 
